@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hi, I'm Daniil
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=First-year+CS+student+%E2%80%A2+DevOps+specialization;Building+stuff+with+C%23+%2F+.NET+MAUI;Currently+debugging+life+itself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=1-year+CS+student+%E2%80%A2+DevOps+specialization;Building+stuff+with+C%23+%2F+.NET+MAUI;Currently+debugging+life+itself)](https://git.io/typing-svg)
 
 🎓 First-year Computer Science student (DevOps specialization) at WSB-Merito University, Poznań, Poland
 🇺🇦 Originally made in Sumy, Ukraine — handcrafted, no warranty included
