@@ -1,4 +1,4 @@
-Hi, I'm Daniil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkzOXNxcjcyYmdlencwbWIwdmtka3Y5MW00Z3RkaGNiOGRtajNmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThA9WljtnCnmEz1pIo/giphy.gif" width="30px" /> Hi, I'm Daniil
 
 🎓 First-year Computer Science student (DevOps specialization) at WSB-Merito University, Poznań, Poland
 
@@ -26,5 +26,5 @@ Speedcubing, chess, aviation (I built a METAR decoder just for fun!)
 ---
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/13045326086645064754" width="300px" alt="Funny koala at a computer">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/8622647862758297568" width="300px" alt="Dinosaur typing on a computer">
 </p>
