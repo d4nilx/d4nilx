@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hi, I'm Daniil
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-year+CS+student+%E2%80%A2+DevOps+specialization;Building+stuff+with+C%23+%2F+.NET+MAUI;Currently+debugging+life+itself)](https://git.io/typing-svg)
-
 🎓 First-year Computer Science student (DevOps specialization) at WSB-Merito University, Poznań, Poland
+
 🇺🇦 Originally made in Sumy, Ukraine — handcrafted, no warranty included
+
 🗣️ Languages: Ukrainian (native), English (B2), Polish (B2/C1)
 
 ## 🚀 What I'm working on
@@ -14,13 +14,17 @@
 
 ## 🛠️ Tech I use
 <p align="left">
-  <<img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider" />
 </p>
 
 ## ✈️ Other interests
 Speedcubing, chess, aviation (I built a METAR decoder just for fun!)
 
 ## 📫 Reach me
-- LinkedIn: [Daniil Zhdanov](www.linkedin.com/in/daniil-zhdanov)
+- LinkedIn: [Daniil Zhdanov](https://www.linkedin.com/in/daniil-zhdanov)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+</p>
