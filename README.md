@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider,vscode" />
 </p>
 
 ## ✈️ Other interests
