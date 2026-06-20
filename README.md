@@ -4,7 +4,7 @@
 
 🇺🇦 Originally made in Sumy, Ukraine — handcrafted, no warranty included
 
-🗣️ Languages: Ukrainian (native), English (B2), Polish (B2/C1)
+🗣️ Languages: Ukrainian (native), English (B2), Polish (B2/C1), French (Loading... █░░░░░░░░ 5%)
 
 ## 🚀 What I'm working on
 - Building CLI tools and apps with C#/.NET MAUI (MVVM, REST APIs)
