@@ -9,12 +9,12 @@
 ## 🚀 What I'm working on
 - Building CLI tools and apps with C#/.NET MAUI (MVVM, REST APIs)
 - Learning Python (CS50P) and growing my DevOps toolkit
-- Recent projects: **ZenCLI** (Pomodoro/website blocker), **Dalana** (local AI agent using Groq API)
+- Recent projects: **ZenCLI** (Pomodoro/website blocker), **AuroCI** (Smart CLI tool for CI/CD actions)
 - Running on caffeine and an optimistic sleep schedule that exists mostly in theory
 
 ## 🛠️ Tech I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,bash,sqlite,git,linux,apple,windows,rider,vscode,docker&theme=dark" />
 </p>
 
 ## ✈️ Other interests
