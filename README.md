@@ -23,8 +23,4 @@ Speedcubing, chess, aviation (I built a METAR decoder just for fun!)
 ## 📫 Reach me
 - LinkedIn: [Daniil Zhdanov](https://www.linkedin.com/in/daniil-zhdanov)
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
-</p>
+[![Hits](https://hits.sh/github.com/d4nilx.svg?style=plastic&label=views&color=2d06eb&labelColor=630505)](https://hits.sh/github.com/d4nilx/)
